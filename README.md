@@ -1,4 +1,5 @@
-¡Hola![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Mi nombre es José Gerardo Antonio López 
+[](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+¡Hola! Mi nombre es José Gerardo Antonio López 
  Desarrollador Full-stack 
  Estoy desarrollándome en el sector de TI actualmente estudio en la academia de programación Códica Desarrollador Full-stack. 
  * 🌍 Estoy radicado en Bogotá, Colombia
