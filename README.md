@@ -1,4 +1,9 @@
-¡Hola![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Mi nombre es José Gerardo Antonio López =========================================================================== ============================================================================= Desarrollador Full-stack ------------------------ Estoy desarrollándome en el sector de TI actualmente estudio en la academia de programación Códica Desarrollador Full-stack. * 🌍 Estoy radicado en Bogotá, Colombia * ✉️ Puedes contactarme a [jgantoniolopez1987@gmail.com](mailto:jgantoniolopez1987@gmail.com) * 👥 Busco colaborar en proyectos de código abierto para afianzar mis conocimientos
+¡Hola![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Mi nombre es José Gerardo Antonio López 
+ Desarrollador Full-stack 
+ Estoy desarrollándome en el sector de TI actualmente estudio en la academia de programación Códica Desarrollador Full-stack. 
+ * 🌍 Estoy radicado en Bogotá, Colombia
+ * ✉️ Puedes contactarme a [jgantoniolopez1987@gmail.com](mailto:jgantoniolopez1987@gmail.com)
+ * 👥 Busco colaborar en proyectos de código abierto para afianzar mis conocimientos
 
 <p align="left">
 
@@ -8,17 +13,3 @@
 ### Redes sociales
 
 <p align="left"> </p> <a href="https://www.github.com/jose-lop" target="_blank" rel="noreferrer"> <imagen> <source media="(prefiere esquema de color: oscuro)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefiere esquema de color: claro)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </imagen> </a> <a href="https://www.linkedin.com/in/jose-lopez-266b713a9/" target="_blank" rel="noreferrer"> <imagen> <source media="(prefiere esquema de color: oscuro)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefiere esquema de color: claro)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" ancho="32" alto="32" alt="LinkedIn" título="LinkedIn" /> </imagen> </a>
-<!--
-**jose-lop/jose-lop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
