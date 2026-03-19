@@ -4,6 +4,8 @@
  Estoy desarrollándome en el sector de TI actualmente estudio en la academia de programación Códica Desarrollador Full-stack. 
  * 🌍 Estoy radicado en Bogotá, Colombia
  * ✉️ Puedes contactarme a [jgantoniolopez1987@gmail.com](mailto:jgantoniolopez1987@gmail.com)
+ * 📞<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/0239d8cb-7ad4-4f44-9637-3e4edb9524b5" />
+ 3103357393 wassap
  * 👥 Busco colaborar en proyectos de código abierto para afianzar mis conocimientos
  * Desarrollador JavaScript Junior con experiencia en desarrollo de aplicaciones utilizando Node.js y JavaScript. He construido proyectos CLI y aplicado testing automatizado con Jest, junto con control de versiones en Git y GitHub. Manejo conceptos de programación asincrónica y lógica de programación para la resolución de problemas. Cuento con una sólida experiencia previa en gestión comercial y administracion, lo que me permite entender necesidades de negocio y aportar soluciones tecnológicas eficientes. Actualmente me estoy formando como desarrollador Full Stack en la academia Codica https://app.codica.la/my , ampliando conocimientos en HTML, CSS y APIs REST. Busco una oportunidad para iniciar mi carrera en tecnología, aportar valor y seguir creciendo profesionalmente.
 
